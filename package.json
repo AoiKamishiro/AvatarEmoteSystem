@@ -1,0 +1,8 @@
+{
+  "name": "com.kamishiro.avataremotesystem",
+  "author": "AoiKamishiro",
+  "version": "1.0.0",
+  "displayName": "Avatar Emote System",
+  "description": "Emote System for VRChat Avatars.",
+  "unity": "2019.4"
+}
